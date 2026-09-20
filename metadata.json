@@ -1,0 +1,12 @@
+{
+  "name": "ExploraAI - Smart Travel Assistant",
+  "description": "Personalized AI-powered smart tourism platform with natural language search, camera landmark recognition, voice assistant, interactive map navigation, budget trip planner, live location tracking, memories, community, and travel vouchers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
